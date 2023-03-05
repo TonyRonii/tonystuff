@@ -1,0 +1,41 @@
+mods/data/you-cant-run-encore/camShake.lua
+mods/data/you-cant-run-encore/effects.lua
+mods/data/you-cant-run-encore/shader.lua
+mods/data/you-cant-run-encore/you-cant-run-encore-encore.json
+mods/stages/cant-run-xd.json
+mods/stages/cant-run-xd.lua
+mods/custom_notetypes/Static Note.lua
+mods/custom_notetypes/Phantom Note.lua
+mods/custom_events/Genesis.lua
+mods/custom_events/Flash.lua
+mods/custom_events/TooSlowFlashinShit.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/SonicJumpscare.lua
+mods/custom_events/RedVG.lua
+mods/custom_events/Lyrics.lua
+mods/scripts/BoyfriendFixAnimations.lua
+mods/scripts/cameraMovement.lua
+mods/scripts/cameraShake.lua
+mods/scripts/changeGameOverSonic.lua
+mods/scripts/changeSplashNoteSonic.lua
+mods/scripts/customHealthBar.lua
+mods/scripts/fadeScriptSoulless.lua
+mods/scripts/runningSonicPrey.lua
+mods/scripts/screenBeat.lua
+mods/scripts/sonic HUD.lua
+mods/scripts/SonicCountDown.lua
+mods/sounds/hitStatic1.ogg
+mods/sounds/staticBUZZ.ogg
+mods/sounds/sppok.ogg
+mods/sounds/P3Jumps/TailsScreamLOL.ogg
+mods/sounds/P3Jumps/KnucklesScreamLOL.ogg
+mods/sounds/P3Jumps/EggmanScreamLOL.ogg
+mods/fonts/sonic-1-hud-font.ttf
+mods/sounds/SonicDash.ogg
+mods/sounds/SonicJump.ogg
+mods/sounds/hitmarker.ogg
+mods/sounds/flatBONK.ogg
+mods/songs/you-cant-run-encore/Voices.ogg
+mods/songs/you-cant-run-encore/voices.ogg
+mods/songs/you-cant-run-encore/Inst.ogg
+mods/songs/you-cant-run-encore/inst.ogg

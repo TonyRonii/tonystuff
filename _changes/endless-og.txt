@@ -1,0 +1,50 @@
+mods/data/endless-og/endless-og-hard.json
+mods/data/endless-og/events.json
+mods/characters/endless_bf.json
+mods/characters/majin_new.json
+mods/characters/gf.json
+mods/stages/endless-forest.json
+mods/stages/endless-forest.lua
+mods/images/characters/endless_bf.png
+mods/images/characters/endless_bf.xml
+mods/images/characters/MajinOG.png
+mods/images/characters/MajinOG.xml
+mods/images/characters/GF_assets.png
+mods/images/characters/GF_assets.xml
+mods/scripts/BoyfriendFixAnimations.lua
+mods/scripts/cameraMovement.lua
+mods/scripts/cameraShake.lua
+mods/scripts/changeGameOverSonic.lua
+mods/scripts/changeSplashNoteSonic.lua
+mods/scripts/customHealthBar.lua
+mods/scripts/fadeScriptSoulless.lua
+mods/scripts/runningSonicPrey.lua
+mods/scripts/screenBeat.lua
+mods/scripts/sonic HUD.lua
+mods/scripts/SonicCountDown.lua
+mods/images/FunInfiniteStage/sonicFUNsky.png
+mods/images/FunInfiniteStage/Majin Boppers Back.png
+mods/images/FunInfiniteStage/Majin Boppers Back.xml
+mods/images/FunInfiniteStage/Bush 1.png
+mods/images/FunInfiniteStage/Bush2.png
+mods/images/FunInfiniteStage/Majin Boppers Front.png
+mods/images/FunInfiniteStage/Majin Boppers Front.xml
+mods/images/FunInfiniteStage/floor BG.png
+mods/images/FunInfiniteStage/majin FG2.png
+mods/images/FunInfiniteStage/majin FG2.xml
+mods/images/FunInfiniteStage/majin FG1.png
+mods/images/FunInfiniteStage/majin FG1.xml
+mods/sounds/SonicDash.ogg
+mods/sounds/SonicJump.ogg
+mods/images/endlessNoteSplashes.png
+mods/images/hitmarker.png
+mods/sounds/hitmarker.ogg
+mods/images/characters/peelout_sonic_sheet.png
+mods/images/characters/peelout_sonic_sheet.xml
+mods/characters/bf-Sonic-Peelout.json
+mods/fonts/sonic-1-hud-font.ttf
+mods/sounds/flatBONK.ogg
+mods/songs/endless-og/Voices.ogg
+mods/songs/endless-og/voices.ogg
+mods/songs/endless-og/Inst.ogg
+mods/songs/endless-og/inst.ogg

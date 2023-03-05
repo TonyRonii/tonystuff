@@ -1,0 +1,30 @@
+mods/data/too-slow-encore/events.json
+mods/data/too-slow-encore/script.lua
+mods/data/too-slow-encore/too-slow-encore-encore.json
+mods/stages/too-slow.json
+mods/stages/too-slow.lua
+mods/custom_notetypes/Static Note.lua
+mods/custom_events/Lyrics.lua
+mods/custom_events/sonicspook.lua
+mods/scripts/BoyfriendFixAnimations.lua
+mods/scripts/cameraMovement.lua
+mods/scripts/cameraShake.lua
+mods/scripts/changeGameOverSonic.lua
+mods/scripts/changeSplashNoteSonic.lua
+mods/scripts/customHealthBar.lua
+mods/scripts/fadeScriptSoulless.lua
+mods/scripts/runningSonicPrey.lua
+mods/scripts/screenBeat.lua
+mods/scripts/sonic HUD.lua
+mods/scripts/SonicCountDown.lua
+mods/sounds/hitStatic1.ogg
+mods/fonts/sonic-1-hud-font.ttf
+mods/sounds/datOneSound.ogg
+mods/sounds/SonicDash.ogg
+mods/sounds/SonicJump.ogg
+mods/sounds/hitmarker.ogg
+mods/sounds/flatBONK.ogg
+mods/songs/too-slow-encore/Voices.ogg
+mods/songs/too-slow-encore/voices.ogg
+mods/songs/too-slow-encore/Inst.ogg
+mods/songs/too-slow-encore/inst.ogg

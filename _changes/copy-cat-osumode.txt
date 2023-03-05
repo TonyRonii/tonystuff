@@ -1,0 +1,22 @@
+mods/data/copy-cat/copy-cat-hard.json
+mods/stages/greenHill.lua
+mods/scripts/BoyfriendFixAnimations.lua
+mods/scripts/cameraMovement.lua
+mods/scripts/cameraShake.lua
+mods/scripts/changeGameOverSonic.lua
+mods/scripts/changeSplashNoteSonic.lua
+mods/scripts/customHealthBar.lua
+mods/scripts/fadeScriptSoulless.lua
+mods/scripts/runningSonicPrey.lua
+mods/scripts/screenBeat.lua
+mods/scripts/sonic HUD.lua
+mods/scripts/SonicCountDown.lua
+mods/sounds/SonicDash.ogg
+mods/sounds/SonicJump.ogg
+mods/sounds/hitmarker.ogg
+mods/fonts/sonic-1-hud-font.ttf
+mods/sounds/flatBONK.ogg
+mods/songs/copy-cat/Voices.ogg
+mods/songs/copy-cat/voices.ogg
+mods/songs/copy-cat/Inst.ogg
+mods/songs/copy-cat/inst.ogg

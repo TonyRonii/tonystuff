@@ -1,0 +1,31 @@
+mods/data/endless/endless-encore.json
+mods/data/endless/endless-hard.json
+mods/data/endless/endless-notetypeshit.json
+mods/data/endless/endless-recharted.json
+mods/data/endless/events.json
+mods/stages/endless-forest.json
+mods/stages/endless-forest.lua
+mods/custom_events/Lyrics.lua
+mods/custom_events/Majin count.lua
+mods/custom_events/changeNoteTexture.lua
+mods/custom_events/Majin spin.lua
+mods/scripts/BoyfriendFixAnimations.lua
+mods/scripts/cameraMovement.lua
+mods/scripts/cameraShake.lua
+mods/scripts/changeGameOverSonic.lua
+mods/scripts/changeSplashNoteSonic.lua
+mods/scripts/customHealthBar.lua
+mods/scripts/fadeScriptSoulless.lua
+mods/scripts/runningSonicPrey.lua
+mods/scripts/screenBeat.lua
+mods/scripts/sonic HUD.lua
+mods/scripts/SonicCountDown.lua
+mods/fonts/sonic-1-hud-font.ttf
+mods/sounds/SonicDash.ogg
+mods/sounds/SonicJump.ogg
+mods/sounds/hitmarker.ogg
+mods/sounds/flatBONK.ogg
+mods/songs/endless/Voices.ogg
+mods/songs/endless/voices.ogg
+mods/songs/endless/Inst.ogg
+mods/songs/endless/inst.ogg

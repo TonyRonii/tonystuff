@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Skinwalker.png">
+<SubTexture name="Skinwalker down0000" x="0" y="0" width="407" height="612" frameX="0" frameY="0" frameWidth="407" frameHeight="613" />
+<SubTexture name="Skinwalker idle0000" x="407" y="0" width="407" height="612" frameX="0" frameY="0" frameWidth="407" frameHeight="613" />
+<SubTexture name="Skinwalker left0000" x="0" y="612" width="407" height="601" frameX="0" frameY="-11" frameWidth="407" frameHeight="613" />
+<SubTexture name="Skinwalker right0000" x="814" y="0" width="358" height="606" frameX="-49" frameY="-6" frameWidth="407" frameHeight="613" />
+<SubTexture name="Skinwalker up0000" x="1172" y="0" width="398" height="606" frameX="-9" frameY="-6" frameWidth="407" frameHeight="613" />
+</TextureAtlas>

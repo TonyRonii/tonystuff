@@ -1,0 +1,26 @@
+mods/data/personel/blackScreenWow.lua
+mods/data/personel/events.json
+mods/data/personel/personel-hard.json
+mods/stages/void.json
+mods/stages/void.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/scripts/BoyfriendFixAnimations.lua
+mods/scripts/cameraMovement.lua
+mods/scripts/cameraShake.lua
+mods/scripts/changeGameOverSonic.lua
+mods/scripts/changeSplashNoteSonic.lua
+mods/scripts/customHealthBar.lua
+mods/scripts/fadeScriptSoulless.lua
+mods/scripts/runningSonicPrey.lua
+mods/scripts/screenBeat.lua
+mods/scripts/sonic HUD.lua
+mods/scripts/SonicCountDown.lua
+mods/sounds/SonicDash.ogg
+mods/sounds/SonicJump.ogg
+mods/sounds/hitmarker.ogg
+mods/fonts/sonic-1-hud-font.ttf
+mods/sounds/flatBONK.ogg
+mods/songs/personel/Voices.ogg
+mods/songs/personel/voices.ogg
+mods/songs/personel/Inst.ogg
+mods/songs/personel/inst.ogg

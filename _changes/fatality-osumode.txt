@@ -1,0 +1,29 @@
+mods/data/fatality/cameraZoom.lua
+mods/data/fatality/changeNotes.lua
+mods/data/fatality/events.json
+mods/data/fatality/fatality-hard.json
+mods/stages/fatality.json
+mods/stages/fatality.lua
+mods/custom_events/Fatality Popup.lua
+mods/custom_events/FatalityFlashin.lua
+mods/scripts/BoyfriendFixAnimations.lua
+mods/scripts/cameraMovement.lua
+mods/scripts/cameraShake.lua
+mods/scripts/changeGameOverSonic.lua
+mods/scripts/changeSplashNoteSonic.lua
+mods/scripts/customHealthBar.lua
+mods/scripts/fadeScriptSoulless.lua
+mods/scripts/runningSonicPrey.lua
+mods/scripts/screenBeat.lua
+mods/scripts/sonic HUD.lua
+mods/scripts/SonicCountDown.lua
+mods/sounds/simplejumpsound.ogg
+mods/sounds/SonicDash.ogg
+mods/sounds/SonicJump.ogg
+mods/sounds/hitmarker.ogg
+mods/fonts/sonic-1-hud-font.ttf
+mods/sounds/flatBONK.ogg
+mods/songs/fatality/Voices.ogg
+mods/songs/fatality/voices.ogg
+mods/songs/fatality/Inst.ogg
+mods/songs/fatality/inst.ogg

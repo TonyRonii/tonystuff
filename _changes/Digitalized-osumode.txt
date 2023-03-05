@@ -1,0 +1,26 @@
+mods/data/Digitalized/cirlce.lua
+mods/data/Digitalized/Digitalized-hard(1).json
+mods/data/Digitalized/hudFade.lua
+mods/stages/saturn.json
+mods/stages/saturn.lua
+mods/custom_events/Flash.lua
+mods/custom_events/Hud Fade.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/scripts/BoyfriendFixAnimations.lua
+mods/scripts/cameraMovement.lua
+mods/scripts/cameraShake.lua
+mods/scripts/changeGameOverSonic.lua
+mods/scripts/changeSplashNoteSonic.lua
+mods/scripts/customHealthBar.lua
+mods/scripts/fadeScriptSoulless.lua
+mods/scripts/runningSonicPrey.lua
+mods/scripts/screenBeat.lua
+mods/scripts/sonic HUD.lua
+mods/scripts/SonicCountDown.lua
+mods/sounds/SonicDash.ogg
+mods/sounds/SonicJump.ogg
+mods/sounds/hitmarker.ogg
+mods/fonts/sonic-1-hud-font.ttf
+mods/sounds/flatBONK.ogg
+mods/songs/Digitalized/Inst.ogg
+mods/songs/Digitalized/inst.ogg

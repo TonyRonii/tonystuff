@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lizz idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				192,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lizz left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lizz down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lizz up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lizz right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lizz_FNF",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-20,
+		110
+	],
+	"sing_duration": 4.6,
+	"scale": 0.6
+}

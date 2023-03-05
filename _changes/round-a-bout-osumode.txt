@@ -1,0 +1,25 @@
+mods/data/round-a-bout/round-a-bout-hard.json
+mods/data/round-a-bout/Sarah.lua
+mods/data/round-a-bout/shader.lua
+mods/stages/needle.json
+mods/stages/needle.lua
+mods/scripts/BoyfriendFixAnimations.lua
+mods/scripts/cameraMovement.lua
+mods/scripts/cameraShake.lua
+mods/scripts/changeGameOverSonic.lua
+mods/scripts/changeSplashNoteSonic.lua
+mods/scripts/customHealthBar.lua
+mods/scripts/fadeScriptSoulless.lua
+mods/scripts/runningSonicPrey.lua
+mods/scripts/screenBeat.lua
+mods/scripts/sonic HUD.lua
+mods/scripts/SonicCountDown.lua
+mods/sounds/SonicDash.ogg
+mods/sounds/SonicJump.ogg
+mods/sounds/hitmarker.ogg
+mods/fonts/sonic-1-hud-font.ttf
+mods/sounds/flatBONK.ogg
+mods/songs/round-a-bout/Voices.ogg
+mods/songs/round-a-bout/voices.ogg
+mods/songs/round-a-bout/Inst.ogg
+mods/songs/round-a-bout/inst.ogg

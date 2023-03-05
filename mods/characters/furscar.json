@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "furry scarlett idle"
+		},
+		{
+			"offsets": [
+				20,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "furry scarlett left"
+		},
+		{
+			"offsets": [
+				11,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "furry scarlett down"
+		},
+		{
+			"offsets": [
+				-1,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "furry scarlett up"
+		},
+		{
+			"offsets": [
+				12,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "furry scarlett right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/furry_scarlett",
+	"position": [
+		40,
+		200
+	],
+	"healthicon": "scarlett",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
